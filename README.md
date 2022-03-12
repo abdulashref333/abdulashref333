@@ -6,6 +6,7 @@
 
 
 ## Languages
+[js](https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/javascript.svg)
 <center>
   <code><img height="32" width="32" alt="js" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/javascript.svg"></code>
   <code><img height="32" width="32" alt="nodejs" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/node-dot-js.svg" /></code>
