@@ -11,7 +11,6 @@
   <code><img height="32" width="32" alt="js" src="https://i.imgur.com/R0BfmBL.png"></code>
   <code><img height="32" width="32" alt="nodejs" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" /></code>
   <code><img height="32" width="32" alt="Rails" src="https://avatars.githubusercontent.com/u/4223"></code>
-  <code><img height="32" width="32" alt="mongoDB" src="https://i.imgur.com/uemLvhs.png"></code>
   <code><img height="32" width="32" alt="mySQL" src="https://i.imgur.com/2bScz0p.png"></code>
   <code><img height="32" width="32" alt="Angular" src="https://i.imgur.com/4bLMILe.jpeg"></code>
   <code><img height="32" width="32" alt="Go" src="https://i.imgur.com/1jt4iPR.png"></code>
