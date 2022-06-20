@@ -4,7 +4,7 @@
 -  💬 You can reach me out @: <br/>
 <a href="https://www.linkedin.com/in/abdulrahman-ashraf-571534160/"> <img width="20px" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-linkedin-social-media-justicon-flat-justicon.png"/> </a> &nbsp; &nbsp;
 
-## [MY CV](https://drive.google.com/file/d/12vDnf6eboPtmAohH285hxlWOD-LC_bVZ/view?usp=sharing)
+## [MY CV](https://docs.google.com/document/d/1EqSIvy_XRf4fxpIBnvCDf_1EraZhVauUg4PAA46sq4g/edit?usp=sharing)
 
 ## Languages
 <p align="center">
