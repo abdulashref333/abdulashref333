@@ -6,7 +6,7 @@
 
 ## [MY CV](https://docs.google.com/document/d/1EqSIvy_XRf4fxpIBnvCDf_1EraZhVauUg4PAA46sq4g/edit?usp=sharing)
 
-## Languages
+## Technologies
 <p align="center">
   <code><img height="32" width="32" alt="js" src="https://i.imgur.com/R0BfmBL.png"></code>
   <code><img height="32" width="32" alt="nodejs" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" /></code>
