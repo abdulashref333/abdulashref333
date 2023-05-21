@@ -1,6 +1,6 @@
 ## Hi there I'm Abdulrahman Ashraf 👋
--  📖 Student at faculty of engineering at Aswan university.
--  💻 Interested in backend development and database design.
+-  📖 Graduated from faculty of engineering at Aswan university.
+-  💻 Interested in backend development and database design and curious about microservices.
 -  💬 You can reach me out @: <br/>
 <a href="https://www.linkedin.com/in/abdulrahman-ashraf-571534160/"> <img width="20px" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-linkedin-social-media-justicon-flat-justicon.png"/> </a> &nbsp; &nbsp;
 
