@@ -12,8 +12,4 @@
   <code><img height="32" width="32" alt="nodejs" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" /></code>
   <code><img height="32" width="32" alt="Rails" src="https://avatars.githubusercontent.com/u/4223"></code>
   <code><img height="32" width="32" alt="mySQL" src="https://i.imgur.com/2bScz0p.png"></code>
-  <code><img height="32" width="32" alt="Angular" src="https://i.imgur.com/4bLMILe.jpeg"></code>
-  <code><img height="32" width="32" alt="Go" src="https://i.imgur.com/1jt4iPR.png"></code>
-  <code><img height="32" width="32" alt="Redis" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4"></code>
-  <code><img height="32" width="32" alt="ElasticSearch" src="https://avatars.githubusercontent.com/u/6764390?s=200&v=4"></code>
 </p>
