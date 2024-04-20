@@ -1,8 +1,11 @@
 ## Hi there I'm Abdulrahman Ashraf 👋
--  📖 Graduated from faculty of engineering at Aswan university.
+-  📖 Graduated from faculty of engineering at Aswan university as a computer engineer.
 -  💻 Interested in backend development and database design and curious about microservices.
--  💬 You can reach me out @: 
-<a href="https://www.linkedin.com/in/abdulrahman-ashraf-abdelhameed/"> <img width="20px" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-linkedin-social-media-justicon-flat-justicon.png"/> </a>
+-  Some times want to get my hands dirty in the frontend using React.
+  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mayar-abdelhamid-1906b31a9/](https://www.linkedin.com/in/abdulrahman-ashraf-abdelhameed/)) 
+
 
 ## [MY CV](https://docs.google.com/document/d/1EqSIvy_XRf4fxpIBnvCDf_1EraZhVauUg4PAA46sq4g/edit?usp=sharing)
 
