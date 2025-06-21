@@ -1,10 +1,10 @@
 ## Hi there I'm Abdulrahman Ashraf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
--  📖 Graduated from faculty of engineering at Aswan university as a computer engineer.
--  💻 Interested in backend development and database design and curious about microservices.
--  Some times want to get my hands dirty in the frontend using React.
+-  📖 Graduated from the faculty of engineering at Aswan University as a computer engineer.
+-  💻 Interested in backend development and database design, and curious about modern system design.
+-  Sometimes I want to get my hands dirty in the frontend using React.
 
-## 📄 [MY Resume](https://docs.google.com/document/d/1EqSIvy_XRf4fxpIBnvCDf_1EraZhVauUg4PAA46sq4g/edit?usp=sharing)
+## 📄 [MY Resume](https://docs.google.com/document/d/1wvbNktHmOcg3FLTF47mN00uutP3N5OFcZYAjBLR50Qo/edit?usp=sharing)
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0;Rails;Nodejs;Nextjs;Docker;click+on+MY+Resume"></a>
 </p>
