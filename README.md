@@ -6,7 +6,7 @@
 
 ## 📄 MY Resume
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0;Rails;Nodejs;Nextjs;Docker;click+on+MY+Resume"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0;Python;Rails;Nodejs;Nextjs;Docker"></a>
 </p>
 
 ## 🌐 Socials:
