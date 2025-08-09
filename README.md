@@ -4,7 +4,7 @@
 -  💻 Interested in backend development and database design, and curious about modern system design.
 -  Sometimes I want to get my hands dirty in the frontend using React.
 
-## 📄 [MY Resume](https://docs.google.com/document/d/1wvbNktHmOcg3FLTF47mN00uutP3N5OFcZYAjBLR50Qo/edit?usp=sharing)
+## 📄 MY Resume
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3D90F7&center=true&lines=+Alwayes+Learning+new+Things+%F0%9F%9B%A0;Rails;Nodejs;Nextjs;Docker;click+on+MY+Resume"></a>
 </p>
